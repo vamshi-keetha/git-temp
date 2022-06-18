@@ -1,0 +1,1 @@
+let get=console.log("git")
